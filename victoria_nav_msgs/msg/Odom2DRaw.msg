@@ -6,5 +6,6 @@
 # messages used by ROS.
 
 Header header
-geometry_msgs/Pose2D position
-victoria_nav_msgs/Twist2D velocity
+string child_frame_id
+geometry_msgs/Pose2D pose
+victoria_nav_msgs/Twist2D twist
