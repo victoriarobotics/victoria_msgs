@@ -4,8 +4,5 @@
 # into the full odometry messages used by ROS.
 
 Header header
-float64 x
-float64 y
-float64 th
-float64 vx
-float64 vth
+geometry_msgs/Pose2D position
+#victoria_nav_msgs/Twist2D velocity
