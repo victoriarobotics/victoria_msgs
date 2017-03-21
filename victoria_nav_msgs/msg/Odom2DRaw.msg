@@ -5,4 +5,4 @@
 
 Header header
 geometry_msgs/Pose2D position
-#victoria_nav_msgs/Twist2D velocity
+victoria_nav_msgs/Twist2D velocity
