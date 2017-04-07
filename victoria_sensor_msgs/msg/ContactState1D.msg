@@ -4,5 +4,5 @@
 
 std_msgs/Header header
 float64 value
-float64 min
-float64 max
+float64 min_value
+float64 max_value
