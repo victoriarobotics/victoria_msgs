@@ -22,7 +22,7 @@ time last_cmd_vel_time
 
 # True of the threshold for last cmd_vel command has
 # been exceeded.
-bool last_cmd_vel_theshold_exceeded
+bool cmd_vel_timeout_exceeded
 
 # The last time raw odom was published.
 time last_raw_odom_publish_time
