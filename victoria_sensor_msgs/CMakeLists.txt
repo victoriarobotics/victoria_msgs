@@ -11,7 +11,7 @@ find_package(catkin REQUIRED
 add_message_files(
   DIRECTORY msg
   FILES
-    ContactState1D.msg
+    DistanceDisplacement1D.msg
     IMURaw.msg
 )
 
