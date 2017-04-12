@@ -12,6 +12,7 @@ add_message_files(
   DIRECTORY msg
   FILES
     DistanceDisplacement1D.msg
+    EncoderCount.msg
     IMURaw.msg
 )
 
