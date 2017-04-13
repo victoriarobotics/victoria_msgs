@@ -13,6 +13,7 @@ add_message_files(
   FILES
     DistanceDisplacement1D.msg
     EncoderCount.msg
+    FobMode.msg
     IMURaw.msg
 )
 
