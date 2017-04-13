@@ -3,5 +3,5 @@
 
 std_msgs/Header header
 int64 count
-int64 min
-int64 max
+int64 min_value
+int64 max_value
