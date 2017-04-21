@@ -11,4 +11,5 @@
 std_msgs/Header header
 geometry_msgs/Vector3 accelerometer
 geometry_msgs/Vector3 gyro
-geometry_msgs/Vector3 magnetometer 
+geometry_msgs/Vector3 magnetometer
+geometry_msgs/Quaternion quaternion
